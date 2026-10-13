@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrade Institutional Terminal",
+  "description": "Institutional-grade simulated trading terminal featuring real-time market benchmarks, live order flow radar, order book depth, execution console, portfolio management, and quantitative analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
